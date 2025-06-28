@@ -20,15 +20,6 @@ Software Engineering student @ <b>VIT Vellore</b> | I love blending design and l
 
 ---
 
-### 💁‍♀️ About Me
-
-- 🎓 Integrated M.Tech Software Engineering Student @ VIT Vellore (2022–2027)
-- 💡 Passionate about AI, web dev, and building clean, responsive interfaces
-- 📊 Currently exploring Data Mining, Big Data, Generative AI & Python frameworks 
-- 🚀 Seeking hands-on opportunities to grow and build real-world solutions
-
----
-
 ### 📊 GitHub Activity
 
 <p align="center">
