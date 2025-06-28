@@ -83,7 +83,7 @@ Created test cases and conducted end-to-end validation for a pharmacy management
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshal-shanoj-326515276)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_eshxl?igsh=MXVvbWZwZjVoMDNxbQ==)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/__eshxl_/?igsh=MXVvbWZwZjVoMDNxbQ%3D%3D#)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/eshxl)  
 📬 [Email me](mailto:eshalshanoj04@gmail.com)
 
