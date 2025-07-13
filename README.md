@@ -15,7 +15,7 @@ Software Engineering student @ <b>VIT Vellore</b> | I love blending design and l
 ### 🚀 Tech I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,java,cpp,git,github,vscode,colab" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,java,cpp,git,github,vscode,mysql,streamlit,colab" />
 </p>
 
 ---
